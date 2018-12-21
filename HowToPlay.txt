@@ -1,0 +1,5 @@
+Welcome to SaiyanChicken
+
+SaiyanChicken is a single screen game where the player control the chicken and go through several challenges. The player will see the time count as they move through the screen. On the first level, just use left and right arrow key to move the chicken through the next level. On the level 2, it is slightly more difficult. You have to press Spacebar to jump and if the chicken touches the spikes or go out of bound, the player is dead but the player is given an option to restart the level.
+
+Thank you for playing!
